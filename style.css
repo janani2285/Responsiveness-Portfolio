@@ -3,7 +3,7 @@ body{
 }
 .navbar-brand.name-font{
     font-size: 26px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
 
 .header-font{
@@ -17,4 +17,10 @@ body{
 
 .container-style{
     background-color: rgb(221, 186, 140);
+}
+
+.label-style{
+    font-size: 24px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
