@@ -1,12 +1,20 @@
+body{
+    background-color: bisque;
+}
 .navbar-brand.name-font{
     font-size: 26px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .header-font{
-    font-size: 38px;
+    font-size: 45px;
+    font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: brown;
-    border-bottom: solid;
+    color: maroon;
+  /*  border-bottom: solid;*/
     padding-bottom: 20px;
+}
+
+.container-style{
+    background-color: rgb(221, 186, 140);
 }
