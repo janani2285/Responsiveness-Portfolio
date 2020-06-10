@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: lightgrey;
 }
 .navbar-brand.name-font{
     font-size: 26px;
@@ -16,7 +16,7 @@ body{
 }
 
 .container-style{
-    background-color: rgb(221, 186, 140);
+    background-color:gainsboro;
 }
 
 .label-style{
