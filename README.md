@@ -11,3 +11,11 @@ Git is used for version controling and for perioding commits to Gitlab.
 ## Deployed Application URL
 
 https://janani2285.github.io/Responsiveness-Portfolio/
+
+## Screenshots of the application
+
+<img src="assets/images/about.png">
+
+<img src="assets/images/contactInfo.png">
+
+<img src="assets/images/portfolio.png">
