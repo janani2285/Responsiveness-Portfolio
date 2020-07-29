@@ -29,3 +29,17 @@ body{
     width: 350px;
     height: 193px;
 }
+
+.img-style{
+    padding: 5px;
+    height: 14rem;
+}
+
+.card-text-padding{
+    padding-left: 5px;
+}
+
+.empty-card{
+    background-color: gainsboro;
+    border: 0px;
+}
